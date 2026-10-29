@@ -2,7 +2,7 @@
 - 👀 I’m interested in OffSec, Infosec, Networks
 - 🌱 I’m currently learning CyberSec
 - 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me, dont! 
+- 📫 How to reach me, just do it! 
 
 <!---
 Jaymungai/Jaymungai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
